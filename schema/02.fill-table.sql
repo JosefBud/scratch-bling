@@ -1,0 +1,3 @@
+INSERT INTO items (item_name, item_description, item_size, item_cost) VALUES ('The Itcher', 'Scratch any itch', '{"XL"}', 27.00);
+INSERT INTO items (item_name, item_description, item_size, item_cost) VALUES ('The Blinger', 'Diamonds', '{"L"}', 343.00);
+INSERT INTO items (item_name, item_description, item_size, item_cost) VALUES ('Glitz and Gold', 'Gold handle and fancy emeralds make this shine', '{"XL","L","M","S"}', 4343.00);
